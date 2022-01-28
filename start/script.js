@@ -5,13 +5,17 @@
 
 
 // global variable
-// let pos;
-// function changePos(){
-//     pos = 2
-//     console.log(pos)
-// }
-// changePos(pos)
-// console.log(pos)
+let pos;
+
+function changePos(){
+    pos = 2
+    console.log(pos)
+}
+
+changePos(pos)
+console.log(pos)
+
+
 
 
 // var inp = prompt('Why are you gay?')
